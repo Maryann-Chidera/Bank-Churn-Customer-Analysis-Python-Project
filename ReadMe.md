@@ -55,9 +55,9 @@ Exited: Whether the customer has churned. The numeric 1 means yes and the numeri
 
 This plot helps identify which gender is more likely to churn. customers that are still in the bank are represented by the numeric 1 and customers no longer in the bank are represented by the numeric 0. 
 
-This plot shows that male customers are likely to churn to the bank (0) and female customers are more retained. Although it should be noted that the difference is not substantial. 
+This plot shows that female customers are likely to churn to the bank (0) and male customers are more retained. Although it should be noted that the difference is not substantial. 
 
-This result might suggest a need for targeted retention strategies for both genders especially the male gender. 
+This result might suggest a need for targeted retention strategies for both genders especially the female gender. 
 
  
 
@@ -170,7 +170,7 @@ Churn by number of products.
 Demographics-Based Recommendations
 Gender
 
-Men are slightly more likely to leave. Create personalized offers for male customers. Collect feedback to understand their needs better.
+Female are slightly more likely to leave. Create personalized offers for female customers. Collect feedback to understand their needs better.
 Geography
 
 More customers leave from Germany. Survey German customers to find out why. Offer local deals or improve customer support in that region.
